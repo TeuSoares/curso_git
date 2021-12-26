@@ -41,5 +41,5 @@ function soma(a, b){
 
 - [x] HTML
 - [ ] CSS
-- [ ] JS
+- [x] JS
 - [ ] PHP
