@@ -29,4 +29,4 @@ LISTAS
     3. JavaScript
     4. php
 
-![texto alt][link imagem)]
+![texto alt](link imagem)
