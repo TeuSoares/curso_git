@@ -38,3 +38,8 @@ function soma(a, b){
     return a + b;
 }
 ```
+
+- [x] HTML
+- [ ] CSS
+- [ ] JS
+- [ ] PHP
