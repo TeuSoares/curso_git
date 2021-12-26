@@ -31,4 +31,10 @@ LISTAS
 
 ![texto alt](link imagem - interna ou externa)
 
-[texto do link](link) | [google](https://www.google.com.br/)
+[texto do link ou img](link) | [google](https://www.google.com.br/)
+
+'''javascript
+function soma(a, b){
+    return a + b;
+}
+'''
