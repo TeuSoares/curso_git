@@ -7,3 +7,6 @@ Repositório para curso de Git
 #### Headline (h4)
 ##### Headline (h5)
 ###### Headline (h6)
+
+*Italico*
+**Negrito**
