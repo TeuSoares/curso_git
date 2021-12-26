@@ -11,3 +11,4 @@ Repositório para curso de Git
 *Italico* |
 **Negrito** |
 **Os dois _combinados_** |
+_Os dois **combinados**_
