@@ -12,3 +12,9 @@ Repositório para curso de Git
 **Negrito** |
 **Os dois _combinados_** |
 _Os dois **combinados**_
+
+LISTAS
+* HTML
+* CSS
+* JAVASCRIPT
+* PHP
