@@ -29,4 +29,6 @@ LISTAS
     3. JavaScript
     4. php
 
-![texto alt](link imagem)
+![texto alt](link imagem - interna ou externa)
+
+[texto do link](link) | [google](https://www.google.com.br/)
