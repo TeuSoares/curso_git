@@ -33,8 +33,8 @@ LISTAS
 
 [texto do link ou img](link) | [google](https://www.google.com.br/)
 
-'''javascript
+```javascript
 function soma(a, b){
     return a + b;
 }
-'''
+```
